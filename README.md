@@ -1,5 +1,3 @@
-Collecting workspace information# NeurIPS Paper Scraper
-
 This project is a web scraper designed to download and save NeurIPS conference papers along with their metadata. The scraper uses a GUI built with CustomTkinter to allow users to specify the year range for the papers they want to download.
 
 ## Features
